@@ -1,4 +1,1 @@
-# Mi vimrc
-
-## Farrita
-- Hola
+mi vimrc
